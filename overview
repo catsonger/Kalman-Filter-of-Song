@@ -1,0 +1,2 @@
+Kalman filter is not a filter, but optimal estimate.
+Based on BAYES theory, it is Recursive minimum variance estimation.
